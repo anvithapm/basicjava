@@ -1,0 +1,9 @@
+My second session notes:
+
+A bit is one binary digit. It is the smallest data in a computer system and can take either 0 or 1. 2 bits can carry 4 values which are 00(0), 01(1), 10(2), 11(3). 1 bit has 2 values, 2 bits have 4 values, 3 bits have 8 values, and so on. At 8 bits, there are 256 values. This is plenty for alphabet, numbers, and other characters. Earlier computers grouped 8 bits, and called it a byte. 1024 bytes is a kilo byte. 1024*1924 bytes is a mega byte. 1024*1024*1024 bytes is a giga byte.
+
+By typing 'winver' into the windows search, you will see which operation system your computer uses. When you right click on the task bar, click task manager. Click on the performance tab. You can see how much memory your computer has left, and the total. Go to Windows Explorer. Right click on the C drive, and click Properties. You can see the capacity is in the C drive. We need a higher capacity in C drive to store things permanently. A file is a group of bytes. There are .txt, .png, .jpg, .exe, .mp4, and .html files. A folder is a collection of files, and also can contain folders.
+
+A new folder can be created by right clicking anywhere, click new, then folder. In the windows search, type run. Type cmd in the bar. Type 'md' and then whatever the folder is called. Then enter. Then type 'cd' and then whatever the folder is called. Then enter and typer'md' and then whatever the folder inside the folder is called. Then enter and do 'cd' and whatever the folder inside the folder is called. DDo this for any of the folders within folders.
+
+Eclipse is used to develop programs compared to other programs. These are called IDE, Interactive Development Environment. Click file, new, java project. Name is HelloWorld. Click file, new, class. Name it HelloWorld. Click public static void main. Type in System.out.println("Hello World"); then click run.
