@@ -1,0 +1,11 @@
+Here are my sixth session notes:
+
+There are two variables, int and String. int can only take numbers and String can only take characters. You can define your own data type using int and String. The syntax is class yourdatattypename{
+}
+In between the brackets, you define what you want in the data type. For example, int age, or String name. If the data type is class Person{, inside the brackets you could put int age, int grade, String name, int height, int weight, etc.
+You can use this data type in the program by putting the datatype followed by the variable.(int age;) For example, Person person1; You can create different ones.
+Person person1 = new Person();
+person1.age = 14;
+person1.name = "bob";
+person1.grade = 8;
+The dot defines the property. To print these, type: System.out.println( person1.name + "age is:" + person1.age);
