@@ -1,0 +1,5 @@
+My notes for this session:
+
+Examples of Syntax are: if, condition, else if, else, for, and custom data type. 
+Technical term for data type is class. Variable is object. Class can be like a cookie cutter, blueprint, recipe, or template. Class is a singular noun. 
+Actions are verbs, actions start with lowercase, class names start with uppercase. Scoping means the variable declared in a code block is alive and dead between { and }.
