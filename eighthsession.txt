@@ -1,0 +1,3 @@
+My notes for this session:
+
+Class is the technical term for creating a data type. Object is the technical term for creating variables. Fields are class properties. Actions are called Methods in java. Class has fields and methods. Boolean variables are used to say yes or no.
