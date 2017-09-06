@@ -1,0 +1,5 @@
+My notes for this session:
+
+OOPs is short for Object Oriented Programming. Java is based on these principles.
+
+The first principle of encapsulation is putting related properties and actions together in a class. By using the word 'private'in front of a method, you would not be able to call the method. This is the second part of encapsulation, hiding the details.
