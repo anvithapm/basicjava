@@ -1,0 +1,9 @@
+Here are my notes for this session:
+
+Methods are actions. The syntax for a method is:
+  1. Ask for method name
+  2. Ask for inputs
+  3. Ask for what it gives back
+If the data type is not returning anything, then put void at the beginning of the line. (EX: void doHomework). If it is returning something, put return, then the number or word after. (EX: int readBook ~enter~ return 10).
+When you are writing a method, you are writing instructions, and grouping them with a method. In methods, use (), and provide input inside them.
+A constructor is a special method, it has the same name as the class, it does not have return data type.
