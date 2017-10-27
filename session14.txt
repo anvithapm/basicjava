@@ -1,0 +1,14 @@
+My notes for this session:
+
+Method overloading is a feature that allows a class to have multiple methods with the same name at the same time, if their argument lists are different.
+Data type 'char' is used for storing a single character.
+
+A java project contains:
+- Multiple classes
+  - A class contains:
+      - variables
+      - constructor
+      - methods
+      - A method contains:
+        - instructions
+Method body: body is the part which begins with { and ends with }. All instructions should go here.
