@@ -1,0 +1,6 @@
+Here are my fifteenth session notes:
+
+Constructor overloading is the same thing as method overloading, but with a constructor. A constructor is called a constructor because you can only use it to create an object, and not any other time.
+Defining a method includes: name, inputs, instructions, and outputs. Calling the method is asking to follow the instructions given.
+When calling the method in the same class, you can just use the method name and any parameters.
+Hiding the details using 'private' is a part of encapsulation. Encapsuation is hiding the details, and packaging related things.
