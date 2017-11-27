@@ -1,0 +1,8 @@
+My notes for these sessions:
+
+Methods that do not have any class variables can be converted into static methods. They can be used in 2 ways: creating object then calling it, or call in the class itself. Once you make a static, it doesn't exist in the object anymore, it is part of the class.
+
+Add special: remembers previous total and adds it to the input
+
+Reuse 1: use Java Developer Kit (JDK)
+Reuse 2: second principle of OOPs is inheritance. If you type "extends methodName" one class can have the same variable as the class you extend it to.
