@@ -1,0 +1,9 @@
+My notes for this session:
+
+Recap of variables:
+- they are one word
+- define variable before using it
+- cannot define multiple variables in same method
+- variable is alive when defined, and dead when it sees a flower bracket "}"
+- can define the same variable in different methods
+- use lowercase firt then uppercase (EX: readBook)
