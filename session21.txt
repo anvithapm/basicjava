@@ -1,0 +1,4 @@
+My notes for this session:
+
+The static methods are shared across all objects (they are not part of the objects). They cannot access the class variables. Static methods are accessed using class instead of objects.
+In order to keep track of one number you will use data type 'int' and in order to have multiple values in a single variable you will be using 'array'.
