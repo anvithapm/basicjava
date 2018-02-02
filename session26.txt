@@ -1,0 +1,4 @@
+My notes for this session:
+
+The "switch" statement is an alternative to the "if" statement. Use "switch" when there is an "if" statement with lots of "else if" statements. In the "switch", the variable to be checked is present, and each "case" is like a condition. You need a "break" after every statement to make that one stop.
+
